@@ -37,4 +37,4 @@
 
 ## 许可
 
-MIT
+本仓库当前修订中由 **ericwubeta** 创作并有权授权的 Skill 指令、指南、示例和模板采用 [CC BY-SA 4.0](LICENSE)。分享原文或改编时请保留署名和许可链接。分享改编时须标明修改并采用 CC BY-SA 4.0 或其允许的兼容许可。第三方内容按各自条款处理，[旧修订](https://github.com/ericwubeta/anti-ai-resume-screener/blob/4bb7fb123d0beff2479d673dd03007d2d6e016e4/README.md#许可)沿用当时的许可声明。
